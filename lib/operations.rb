@@ -6,7 +6,6 @@ if speed > 60 || speed < 40
 else
   return false
   end
-binding.pry
 end
 
 
